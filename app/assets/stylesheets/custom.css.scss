@@ -38,6 +38,10 @@ $navbar-default-bg: black;
   background-color: black;
 }
 
+.article_actions {
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
+}
 .footer{
 margin-top: 45px;
 padding-top: 5px;
@@ -59,4 +63,8 @@ color: #777;
 .footer ul li {
   float: left;
   margin-left: 15px;
+}
+
+.description {
+  margin-top: 0;
 }
